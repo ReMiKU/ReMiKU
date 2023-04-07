@@ -1,6 +1,10 @@
-### Hi there 👋
+<div align="center">
+<img max-width="431" src="https://i.ibb.co/DLvV0RF/W1st.png"/>
+</div>
 
 <!--
+### Hi there 👋
+
 **ReMiKU/ReMiKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
