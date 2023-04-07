@@ -5,10 +5,10 @@
 
 <div align="center">
 <img width="19%" src="https://i.ibb.co/7vMSdX4/ReChroma.gif"/>
-<a href=""><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdP1.png"/></a>
-<a href="https://steamcommunity.com/id/ReMiKUxRH?utm_source=steam"><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdP2.png"/></a>
-<a href="https://twitter.com/remiku_rh"><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdP3.png"/></a>
-<a href="https://remiku.carrd.co/"><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdP4.png"/></a>
+<a href=""><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdPt1.png"/></a>
+<a href="https://steamcommunity.com/id/ReMiKUxRH?utm_source=steam"><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdPt2.png"/></a>
+<a href="https://twitter.com/remiku_rh"><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdPt3.png"/></a>
+<a href="https://remiku.carrd.co/"><img width="19%" src="https://github.com/ReMiKU/ReMiKU/blob/main/assets/3rdPt4.png"/></a>
 </div>
 
 <div align="center">
